@@ -23,10 +23,10 @@ To obtain Microsoft LEAP program software engineer position that develops softwa
   o Enhanced ICIC (Almost Blank Subframe) and related X2-AP messages
   
 >>• Lead system integration of eNodeB with 3rd party central SON server including API development on eNodeB side, defining and implementing test plan, and performing technical support/communication with the server company  
-• Perform Juni eNodeB Link Budget and Cell coverage analysis for indoor and outdoor products for various frequency bands and fading channels	 
-• Bring about Carrier Aggregation implementation for Juni eNodeB by the concept and feasibility prototyping 
+• Perform Juni eNodeB Link Budget and Cell coverage analysis for indoor and outdoor products for various frequency bands and fading channels<br>	 
+• Bring about Carrier Aggregation implementation for Juni eNodeB by the concept and feasibility prototyping<br> 
 • Contribute to various RFIs, RFPs, and Product Manual/User Guide for Interoperability Testing of various customers   
-• Support Interoperability Testing in Lab Trials and field Trials for Juni LTE small cell with SON functions including CBRS band small cell products 
+• Support Interoperability Testing in Lab Trials and field Trials for Juni LTE small cell with SON functions including CBRS band small cell products<br> 
 • Built LTE small cell eNodeB System Level Simulator  
 • Worked on coexistence interference problem with WiFi device and LTE device  
 • Designed Digital Filter for Juni Small cell products for various system bandwidth  
